@@ -138,25 +138,64 @@ python pipeline_inference.py \
     --token_dict prior_knowledge/human_mouse_tokens.pickle
 ```
 
-## Evaluation Metrics
+## Cross-Validation Results
 
-### Primary: Spearman Rank Correlation ρ
-Measures how well the model ranks cell-type pairs by interaction strength.
+5-fold cross-validation on cell-type-aggregated expression profiles across 5 Tabula Sapiens organs. Gold standard: CellChat + CellPhoneDB v5 consensus weighted by statistical significance.
 
-| ρ range | Interpretation |
-|---------|---------------|
-| ρ ≥ 0.7 | EXCELLENT |
-| 0.5 ≤ ρ < 0.7 | GOOD |
-| 0.3 ≤ ρ < 0.5 | MODERATE |
-| ρ < 0.3 | WEAK |
+| Organ | Cell Types | Cell Pairs | Spearman ρ | Pearson r | RMSE | Quality |
+|-------|-----------|-----------|-----------|----------|------|---------|
+| **Lung** | 33 | 1089 | **0.9496** ± 0.0076 | 0.9500 | 0.0500 | EXCELLENT |
+| **Liver** | 23 | 529 | **0.9182** ± 0.0257 | 0.9334 | 0.0666 | EXCELLENT |
+| **Kidney** | 11 | 121 | **0.8986** ± 0.0463 | 0.9273 | 0.0865 | EXCELLENT |
+| **Eye** | 33 | 1089 | **0.8898** ± 0.0224 | 0.8999 | 0.0558 | EXCELLENT |
+| **Pancreas** | 16 | 256 | **0.8372** ± 0.0392 | 0.8501 | 0.1061 | EXCELLENT |
 
-Each fold reports: ρ with bootstrap 95% CI + permutation p-value.
-Final: mean ± std across 5 folds.
+### Metric Definitions
 
-### Secondary
-- **Pearson r**: Linear correlation with gold standard
-- **R²**: Explained variance
-- **RMSE**: Root mean squared error
+| Metric | Description |
+|--------|-------------|
+| Spearman ρ | Rank correlation with gold standard interaction strength |
+| Pearson r | Linear correlation with gold standard |
+| RMSE | Root mean squared error of interaction strength prediction |
+| Quality | ρ ≥ 0.7: EXCELLENT, 0.5–0.7: GOOD, 0.3–0.5: MODERATE |
+
+Each fold reports bootstrap 95% confidence intervals. Final values are mean ± std across 5 folds.
+
+## Visualizations
+
+### Per-Organ Cross-Validation
+
+#### Kidney
+
+| Interaction Heatmap | True vs Predicted |
+|--------------------|-------------------|
+| ![Kidney Heatmap](result/kidney_cv/interaction_heatmap.png) | ![Kidney TvsP](result/kidney_cv/true_vs_predicted.png) |
+
+#### Liver
+
+| Interaction Heatmap | True vs Predicted |
+|--------------------|-------------------|
+| ![Liver Heatmap](result/liver_cv/interaction_heatmap.png) | ![Liver TvsP](result/liver_cv/true_vs_predicted.png) |
+
+#### Pancreas
+
+| Interaction Heatmap | True vs Predicted |
+|--------------------|-------------------|
+| ![Pancreas Heatmap](result/pancreas_cv/interaction_heatmap.png) | ![Pancreas TvsP](result/pancreas_cv/true_vs_predicted.png) |
+
+#### Lung
+
+| Interaction Heatmap | True vs Predicted |
+|--------------------|-------------------|
+| ![Lung Heatmap](result/lung_cv/interaction_heatmap.png) | ![Lung TvsP](result/lung_cv/true_vs_predicted.png) |
+
+#### Eye
+
+| Interaction Heatmap | True vs Predicted |
+|--------------------|-------------------|
+| ![Eye Heatmap](result/eye_cv/interaction_heatmap.png) | ![Eye TvsP](result/eye_cv/true_vs_predicted.png) |
+
+Additional visualizations for each organ: interaction network, circular plot, bubble plot, flow diagram, and autocrine scores are available in the `result/{organ}_cv/` directory.
 
 ## Output Structure
 
