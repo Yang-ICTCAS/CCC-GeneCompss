@@ -1,0 +1,530 @@
+Sender,Receiver,Score
+B cell,B cell,0.4627028703689575
+B cell,"CD4-positive, alpha-beta T cell",0.3403036594390869
+B cell,"CD8-positive, alpha-beta T cell",0.4229385554790497
+B cell,T cell,0.4572063982486725
+B cell,classical monocyte,0.5825684666633606
+B cell,endothelial cell,0.46511146426200867
+B cell,fibroblast,0.42190617322921753
+B cell,intermediate monocyte,0.5980148315429688
+B cell,macrophage,0.5843779444694519
+B cell,mast cell,0.39840763807296753
+B cell,mature NK T cell,0.42267361283302307
+B cell,monocyte,0.6280475854873657
+B cell,natural killer cell,0.5124078989028931
+B cell,neutrophil,0.5340961813926697
+B cell,non-classical monocyte,0.5637288093566895
+B cell,pancreatic A cell,0.32590267062187195
+B cell,pancreatic D cell,0.22699092328548431
+B cell,pancreatic PP cell,0.26826396584510803
+B cell,pancreatic acinar cell,0.23800572752952576
+B cell,pancreatic ductal cell,0.2652463912963867
+B cell,pancreatic stellate cell,0.2957953214645386
+B cell,plasma cell,0.2709549069404602
+B cell,type B pancreatic cell,0.20146499574184418
+"CD4-positive, alpha-beta T cell",B cell,0.4137437045574188
+"CD4-positive, alpha-beta T cell","CD4-positive, alpha-beta T cell",0.34611839056015015
+"CD4-positive, alpha-beta T cell","CD8-positive, alpha-beta T cell",0.440255343914032
+"CD4-positive, alpha-beta T cell",T cell,0.42762160301208496
+"CD4-positive, alpha-beta T cell",classical monocyte,0.5286144018173218
+"CD4-positive, alpha-beta T cell",endothelial cell,0.3327695429325104
+"CD4-positive, alpha-beta T cell",fibroblast,0.3420652449131012
+"CD4-positive, alpha-beta T cell",intermediate monocyte,0.5423575639724731
+"CD4-positive, alpha-beta T cell",macrophage,0.5185200572013855
+"CD4-positive, alpha-beta T cell",mast cell,0.35261398553848267
+"CD4-positive, alpha-beta T cell",mature NK T cell,0.43757885694503784
+"CD4-positive, alpha-beta T cell",monocyte,0.5873897671699524
+"CD4-positive, alpha-beta T cell",natural killer cell,0.5504370927810669
+"CD4-positive, alpha-beta T cell",neutrophil,0.4853087365627289
+"CD4-positive, alpha-beta T cell",non-classical monocyte,0.5180612206459045
+"CD4-positive, alpha-beta T cell",pancreatic A cell,0.24603329598903656
+"CD4-positive, alpha-beta T cell",pancreatic D cell,0.168758824467659
+"CD4-positive, alpha-beta T cell",pancreatic PP cell,0.21574892103672028
+"CD4-positive, alpha-beta T cell",pancreatic acinar cell,0.16223840415477753
+"CD4-positive, alpha-beta T cell",pancreatic ductal cell,0.2039392590522766
+"CD4-positive, alpha-beta T cell",pancreatic stellate cell,0.22751645743846893
+"CD4-positive, alpha-beta T cell",plasma cell,0.23326069116592407
+"CD4-positive, alpha-beta T cell",type B pancreatic cell,0.14328782260417938
+"CD8-positive, alpha-beta T cell",B cell,0.4866849482059479
+"CD8-positive, alpha-beta T cell","CD4-positive, alpha-beta T cell",0.4211220145225525
+"CD8-positive, alpha-beta T cell","CD8-positive, alpha-beta T cell",0.5229795575141907
+"CD8-positive, alpha-beta T cell",T cell,0.5249700546264648
+"CD8-positive, alpha-beta T cell",classical monocyte,0.6118872761726379
+"CD8-positive, alpha-beta T cell",endothelial cell,0.39615827798843384
+"CD8-positive, alpha-beta T cell",fibroblast,0.4140996038913727
+"CD8-positive, alpha-beta T cell",intermediate monocyte,0.6279033422470093
+"CD8-positive, alpha-beta T cell",macrophage,0.6126631498336792
+"CD8-positive, alpha-beta T cell",mast cell,0.44572630524635315
+"CD8-positive, alpha-beta T cell",mature NK T cell,0.5210309028625488
+"CD8-positive, alpha-beta T cell",monocyte,0.6579121947288513
+"CD8-positive, alpha-beta T cell",natural killer cell,0.6232643723487854
+"CD8-positive, alpha-beta T cell",neutrophil,0.5724955797195435
+"CD8-positive, alpha-beta T cell",non-classical monocyte,0.6115972399711609
+"CD8-positive, alpha-beta T cell",pancreatic A cell,0.31993192434310913
+"CD8-positive, alpha-beta T cell",pancreatic D cell,0.2299591302871704
+"CD8-positive, alpha-beta T cell",pancreatic PP cell,0.2967483699321747
+"CD8-positive, alpha-beta T cell",pancreatic acinar cell,0.23678122460842133
+"CD8-positive, alpha-beta T cell",pancreatic ductal cell,0.2824972867965698
+"CD8-positive, alpha-beta T cell",pancreatic stellate cell,0.2899470329284668
+"CD8-positive, alpha-beta T cell",plasma cell,0.31501510739326477
+"CD8-positive, alpha-beta T cell",type B pancreatic cell,0.2086220532655716
+T cell,B cell,0.40909266471862793
+T cell,"CD4-positive, alpha-beta T cell",0.3021077513694763
+T cell,"CD8-positive, alpha-beta T cell",0.38289591670036316
+T cell,T cell,0.4059496223926544
+T cell,classical monocyte,0.4653027653694153
+T cell,endothelial cell,0.4617619216442108
+T cell,fibroblast,0.4086213707923889
+T cell,intermediate monocyte,0.4880569279193878
+T cell,macrophage,0.4596879482269287
+T cell,mast cell,0.33741605281829834
+T cell,mature NK T cell,0.389493465423584
+T cell,monocyte,0.5396619439125061
+T cell,natural killer cell,0.47574231028556824
+T cell,neutrophil,0.4327342212200165
+T cell,non-classical monocyte,0.4704759120941162
+T cell,pancreatic A cell,0.33813953399658203
+T cell,pancreatic D cell,0.19935564696788788
+T cell,pancreatic PP cell,0.2349058836698532
+T cell,pancreatic acinar cell,0.21952998638153076
+T cell,pancreatic ductal cell,0.2332443743944168
+T cell,pancreatic stellate cell,0.2498132288455963
+T cell,plasma cell,0.20127536356449127
+T cell,type B pancreatic cell,0.1800791174173355
+classical monocyte,B cell,0.520546019077301
+classical monocyte,"CD4-positive, alpha-beta T cell",0.3844005763530731
+classical monocyte,"CD8-positive, alpha-beta T cell",0.4646638333797455
+classical monocyte,T cell,0.5152236223220825
+classical monocyte,classical monocyte,0.5901932716369629
+classical monocyte,endothelial cell,0.5244091749191284
+classical monocyte,fibroblast,0.5707078576087952
+classical monocyte,intermediate monocyte,0.6072798371315002
+classical monocyte,macrophage,0.585996687412262
+classical monocyte,mast cell,0.46158865094184875
+classical monocyte,mature NK T cell,0.47676849365234375
+classical monocyte,monocyte,0.6376898884773254
+classical monocyte,natural killer cell,0.5351839661598206
+classical monocyte,neutrophil,0.5588403940200806
+classical monocyte,non-classical monocyte,0.5761577486991882
+classical monocyte,pancreatic A cell,0.3753773868083954
+classical monocyte,pancreatic D cell,0.2588437497615814
+classical monocyte,pancreatic PP cell,0.3472920358181
+classical monocyte,pancreatic acinar cell,0.2764159142971039
+classical monocyte,pancreatic ductal cell,0.37915393710136414
+classical monocyte,pancreatic stellate cell,0.4088978171348572
+classical monocyte,plasma cell,0.30702292919158936
+classical monocyte,type B pancreatic cell,0.25155097246170044
+endothelial cell,B cell,0.7184275984764099
+endothelial cell,"CD4-positive, alpha-beta T cell",0.473316490650177
+endothelial cell,"CD8-positive, alpha-beta T cell",0.5222191214561462
+endothelial cell,T cell,0.6104001998901367
+endothelial cell,classical monocyte,0.6813273429870605
+endothelial cell,endothelial cell,0.6117295026779175
+endothelial cell,fibroblast,0.5170760154724121
+endothelial cell,intermediate monocyte,0.686107337474823
+endothelial cell,macrophage,0.6579477787017822
+endothelial cell,mast cell,0.5431948900222778
+endothelial cell,mature NK T cell,0.5913523435592651
+endothelial cell,monocyte,0.7834063768386841
+endothelial cell,natural killer cell,0.5856015682220459
+endothelial cell,neutrophil,0.6484993100166321
+endothelial cell,non-classical monocyte,0.6719620227813721
+endothelial cell,pancreatic A cell,0.2938581705093384
+endothelial cell,pancreatic D cell,0.2683354914188385
+endothelial cell,pancreatic PP cell,0.31134310364723206
+endothelial cell,pancreatic acinar cell,0.3188979923725128
+endothelial cell,pancreatic ductal cell,0.2860817015171051
+endothelial cell,pancreatic stellate cell,0.367026686668396
+endothelial cell,plasma cell,0.5084928274154663
+endothelial cell,type B pancreatic cell,0.2655532658100128
+fibroblast,B cell,0.49547481536865234
+fibroblast,"CD4-positive, alpha-beta T cell",0.3338536024093628
+fibroblast,"CD8-positive, alpha-beta T cell",0.4054960012435913
+fibroblast,T cell,0.5314175486564636
+fibroblast,classical monocyte,0.621845543384552
+fibroblast,endothelial cell,0.656017541885376
+fibroblast,fibroblast,0.5271268486976624
+fibroblast,intermediate monocyte,0.6405324935913086
+fibroblast,macrophage,0.6172067523002625
+fibroblast,mast cell,0.481477290391922
+fibroblast,mature NK T cell,0.4595169126987457
+fibroblast,monocyte,0.7080332636833191
+fibroblast,natural killer cell,0.4727247953414917
+fibroblast,neutrophil,0.5919837355613708
+fibroblast,non-classical monocyte,0.6088671088218689
+fibroblast,pancreatic A cell,0.4502200782299042
+fibroblast,pancreatic D cell,0.4030579626560211
+fibroblast,pancreatic PP cell,0.4027089476585388
+fibroblast,pancreatic acinar cell,0.27944791316986084
+fibroblast,pancreatic ductal cell,0.401145875453949
+fibroblast,pancreatic stellate cell,0.3855951726436615
+fibroblast,plasma cell,0.3214696943759918
+fibroblast,type B pancreatic cell,0.37026336789131165
+intermediate monocyte,B cell,0.5400100946426392
+intermediate monocyte,"CD4-positive, alpha-beta T cell",0.398104190826416
+intermediate monocyte,"CD8-positive, alpha-beta T cell",0.47686299681663513
+intermediate monocyte,T cell,0.5368364453315735
+intermediate monocyte,classical monocyte,0.608326256275177
+intermediate monocyte,endothelial cell,0.5468872785568237
+intermediate monocyte,fibroblast,0.5926819443702698
+intermediate monocyte,intermediate monocyte,0.6234096884727478
+intermediate monocyte,macrophage,0.6047667264938354
+intermediate monocyte,mast cell,0.4818769693374634
+intermediate monocyte,mature NK T cell,0.4903421998023987
+intermediate monocyte,monocyte,0.6545965075492859
+intermediate monocyte,natural killer cell,0.5515568852424622
+intermediate monocyte,neutrophil,0.5773123502731323
+intermediate monocyte,non-classical monocyte,0.5903763175010681
+intermediate monocyte,pancreatic A cell,0.40564626455307007
+intermediate monocyte,pancreatic D cell,0.2905391752719879
+intermediate monocyte,pancreatic PP cell,0.3709522485733032
+intermediate monocyte,pancreatic acinar cell,0.29138877987861633
+intermediate monocyte,pancreatic ductal cell,0.4032069444656372
+intermediate monocyte,pancreatic stellate cell,0.4350505769252777
+intermediate monocyte,plasma cell,0.32851067185401917
+intermediate monocyte,type B pancreatic cell,0.27972570061683655
+macrophage,B cell,0.42338767647743225
+macrophage,"CD4-positive, alpha-beta T cell",0.2746109664440155
+macrophage,"CD8-positive, alpha-beta T cell",0.36699357628822327
+macrophage,T cell,0.40754151344299316
+macrophage,classical monocyte,0.5067790746688843
+macrophage,endothelial cell,0.3672209084033966
+macrophage,fibroblast,0.4537765383720398
+macrophage,intermediate monocyte,0.5213795304298401
+macrophage,macrophage,0.4919610619544983
+macrophage,mast cell,0.34000444412231445
+macrophage,mature NK T cell,0.35801926255226135
+macrophage,monocyte,0.550262987613678
+macrophage,natural killer cell,0.4362347722053528
+macrophage,neutrophil,0.4690296947956085
+macrophage,non-classical monocyte,0.48511001467704773
+macrophage,pancreatic A cell,0.25233975052833557
+macrophage,pancreatic D cell,0.14341220259666443
+macrophage,pancreatic PP cell,0.22540397942066193
+macrophage,pancreatic acinar cell,0.18144802749156952
+macrophage,pancreatic ductal cell,0.24865247309207916
+macrophage,pancreatic stellate cell,0.2868601381778717
+macrophage,plasma cell,0.18597954511642456
+macrophage,type B pancreatic cell,0.1262660175561905
+mast cell,B cell,0.39321401715278625
+mast cell,"CD4-positive, alpha-beta T cell",0.25166356563568115
+mast cell,"CD8-positive, alpha-beta T cell",0.32834702730178833
+mast cell,T cell,0.39450863003730774
+mast cell,classical monocyte,0.46713635325431824
+mast cell,endothelial cell,0.45673054456710815
+mast cell,fibroblast,0.403937429189682
+mast cell,intermediate monocyte,0.48682424426078796
+mast cell,macrophage,0.44837066531181335
+mast cell,mast cell,0.34748080372810364
+mast cell,mature NK T cell,0.3431166410446167
+mast cell,monocyte,0.5460782051086426
+mast cell,natural killer cell,0.4056210219860077
+mast cell,neutrophil,0.4334108531475067
+mast cell,non-classical monocyte,0.467905730009079
+mast cell,pancreatic A cell,0.33146634697914124
+mast cell,pancreatic D cell,0.1943313032388687
+mast cell,pancreatic PP cell,0.220621719956398
+mast cell,pancreatic acinar cell,0.18044991791248322
+mast cell,pancreatic ductal cell,0.21732063591480255
+mast cell,pancreatic stellate cell,0.2452765852212906
+mast cell,plasma cell,0.19949714839458466
+mast cell,type B pancreatic cell,0.171354278922081
+mature NK T cell,B cell,0.4144571125507355
+mature NK T cell,"CD4-positive, alpha-beta T cell",0.3294405937194824
+mature NK T cell,"CD8-positive, alpha-beta T cell",0.4124642610549927
+mature NK T cell,T cell,0.4155377447605133
+mature NK T cell,classical monocyte,0.48774293065071106
+mature NK T cell,endothelial cell,0.4112659692764282
+mature NK T cell,fibroblast,0.37850579619407654
+mature NK T cell,intermediate monocyte,0.5009551644325256
+mature NK T cell,macrophage,0.47470057010650635
+mature NK T cell,mast cell,0.338049054145813
+mature NK T cell,mature NK T cell,0.4167531132698059
+mature NK T cell,monocyte,0.5365787744522095
+mature NK T cell,natural killer cell,0.49529898166656494
+mature NK T cell,neutrophil,0.4458072781562805
+mature NK T cell,non-classical monocyte,0.48121657967567444
+mature NK T cell,pancreatic A cell,0.26891422271728516
+mature NK T cell,pancreatic D cell,0.16646939516067505
+mature NK T cell,pancreatic PP cell,0.22568675875663757
+mature NK T cell,pancreatic acinar cell,0.18789507448673248
+mature NK T cell,pancreatic ductal cell,0.21965260803699493
+mature NK T cell,pancreatic stellate cell,0.24591894447803497
+mature NK T cell,plasma cell,0.2272249311208725
+mature NK T cell,type B pancreatic cell,0.15893886983394623
+monocyte,B cell,0.4309360980987549
+monocyte,"CD4-positive, alpha-beta T cell",0.30953431129455566
+monocyte,"CD8-positive, alpha-beta T cell",0.373239129781723
+monocyte,T cell,0.4239431321620941
+monocyte,classical monocyte,0.500173032283783
+monocyte,endothelial cell,0.4051719307899475
+monocyte,fibroblast,0.4639074206352234
+monocyte,intermediate monocyte,0.5145217776298523
+monocyte,macrophage,0.49609458446502686
+monocyte,mast cell,0.3728794753551483
+monocyte,mature NK T cell,0.3729013204574585
+monocyte,monocyte,0.5421628355979919
+monocyte,natural killer cell,0.42646217346191406
+monocyte,neutrophil,0.46018239855766296
+monocyte,non-classical monocyte,0.4815122187137604
+monocyte,pancreatic A cell,0.3133258819580078
+monocyte,pancreatic D cell,0.22893428802490234
+monocyte,pancreatic PP cell,0.27070537209510803
+monocyte,pancreatic acinar cell,0.24813295900821686
+monocyte,pancreatic ductal cell,0.29676076769828796
+monocyte,pancreatic stellate cell,0.348879873752594
+monocyte,plasma cell,0.26024129986763
+monocyte,type B pancreatic cell,0.20889022946357727
+natural killer cell,B cell,0.5938409566879272
+natural killer cell,"CD4-positive, alpha-beta T cell",0.5456919074058533
+natural killer cell,"CD8-positive, alpha-beta T cell",0.6298608779907227
+natural killer cell,T cell,0.6414006948471069
+natural killer cell,classical monocyte,0.7009140849113464
+natural killer cell,endothelial cell,0.5334984660148621
+natural killer cell,fibroblast,0.5451410412788391
+natural killer cell,intermediate monocyte,0.7161033153533936
+natural killer cell,macrophage,0.7064486742019653
+natural killer cell,mast cell,0.5676156878471375
+natural killer cell,mature NK T cell,0.6282850503921509
+natural killer cell,monocyte,0.7392756342887878
+natural killer cell,natural killer cell,0.6897891163825989
+natural killer cell,neutrophil,0.666286826133728
+natural killer cell,non-classical monocyte,0.7037256956100464
+natural killer cell,pancreatic A cell,0.41914471983909607
+natural killer cell,pancreatic D cell,0.3022155463695526
+natural killer cell,pancreatic PP cell,0.40719786286354065
+natural killer cell,pancreatic acinar cell,0.31322354078292847
+natural killer cell,pancreatic ductal cell,0.3845209777355194
+natural killer cell,pancreatic stellate cell,0.4071768820285797
+natural killer cell,plasma cell,0.45397433638572693
+natural killer cell,type B pancreatic cell,0.2714649736881256
+neutrophil,B cell,0.5020097494125366
+neutrophil,"CD4-positive, alpha-beta T cell",0.370969295501709
+neutrophil,"CD8-positive, alpha-beta T cell",0.4512058198451996
+neutrophil,T cell,0.4923551380634308
+neutrophil,classical monocyte,0.5701594352722168
+neutrophil,endothelial cell,0.5316401124000549
+neutrophil,fibroblast,0.5468595027923584
+neutrophil,intermediate monocyte,0.5873186588287354
+neutrophil,macrophage,0.5616922974586487
+neutrophil,mast cell,0.44816291332244873
+neutrophil,mature NK T cell,0.46276986598968506
+neutrophil,monocyte,0.619989275932312
+neutrophil,natural killer cell,0.5261139869689941
+neutrophil,neutrophil,0.5362869501113892
+neutrophil,non-classical monocyte,0.5581302642822266
+neutrophil,pancreatic A cell,0.37415340542793274
+neutrophil,pancreatic D cell,0.2539016902446747
+neutrophil,pancreatic PP cell,0.33569592237472534
+neutrophil,pancreatic acinar cell,0.2546216547489166
+neutrophil,pancreatic ductal cell,0.36387595534324646
+neutrophil,pancreatic stellate cell,0.3843095600605011
+neutrophil,plasma cell,0.27516838908195496
+neutrophil,type B pancreatic cell,0.24187608063220978
+non-classical monocyte,B cell,0.3892030417919159
+non-classical monocyte,"CD4-positive, alpha-beta T cell",0.2718096673488617
+non-classical monocyte,"CD8-positive, alpha-beta T cell",0.3507354259490967
+non-classical monocyte,T cell,0.37900131940841675
+non-classical monocyte,classical monocyte,0.4576321542263031
+non-classical monocyte,endothelial cell,0.3676677346229553
+non-classical monocyte,fibroblast,0.4182927906513214
+non-classical monocyte,intermediate monocyte,0.4672107398509979
+non-classical monocyte,macrophage,0.44146665930747986
+non-classical monocyte,mast cell,0.30745455622673035
+non-classical monocyte,mature NK T cell,0.3323077857494354
+non-classical monocyte,monocyte,0.49987170100212097
+non-classical monocyte,natural killer cell,0.4216565191745758
+non-classical monocyte,neutrophil,0.42419955134391785
+non-classical monocyte,non-classical monocyte,0.4418254494667053
+non-classical monocyte,pancreatic A cell,0.2565819025039673
+non-classical monocyte,pancreatic D cell,0.14576002955436707
+non-classical monocyte,pancreatic PP cell,0.2142850011587143
+non-classical monocyte,pancreatic acinar cell,0.19356192648410797
+non-classical monocyte,pancreatic ductal cell,0.23652315139770508
+non-classical monocyte,pancreatic stellate cell,0.2593429982662201
+non-classical monocyte,plasma cell,0.1719469577074051
+non-classical monocyte,type B pancreatic cell,0.14452910423278809
+pancreatic A cell,B cell,0.5185278058052063
+pancreatic A cell,"CD4-positive, alpha-beta T cell",0.26052191853523254
+pancreatic A cell,"CD8-positive, alpha-beta T cell",0.3429587781429291
+pancreatic A cell,T cell,0.5690327882766724
+pancreatic A cell,classical monocyte,0.6415205001831055
+pancreatic A cell,endothelial cell,0.567706286907196
+pancreatic A cell,fibroblast,0.5752590894699097
+pancreatic A cell,intermediate monocyte,0.6677249670028687
+pancreatic A cell,macrophage,0.6336830854415894
+pancreatic A cell,mast cell,0.5210790038108826
+pancreatic A cell,mature NK T cell,0.4355217516422272
+pancreatic A cell,monocyte,0.7655422687530518
+pancreatic A cell,natural killer cell,0.4026852548122406
+pancreatic A cell,neutrophil,0.5999710559844971
+pancreatic A cell,non-classical monocyte,0.6476229429244995
+pancreatic A cell,pancreatic A cell,0.5565190315246582
+pancreatic A cell,pancreatic D cell,0.6271291375160217
+pancreatic A cell,pancreatic PP cell,0.4496380388736725
+pancreatic A cell,pancreatic acinar cell,0.48769161105155945
+pancreatic A cell,pancreatic ductal cell,0.24898189306259155
+pancreatic A cell,pancreatic stellate cell,0.2507980763912201
+pancreatic A cell,plasma cell,0.4465012848377228
+pancreatic A cell,type B pancreatic cell,0.6052498817443848
+pancreatic D cell,B cell,0.4106215834617615
+pancreatic D cell,"CD4-positive, alpha-beta T cell",0.16058297455310822
+pancreatic D cell,"CD8-positive, alpha-beta T cell",0.2305956333875656
+pancreatic D cell,T cell,0.6570696830749512
+pancreatic D cell,classical monocyte,0.7807531356811523
+pancreatic D cell,endothelial cell,0.7722036838531494
+pancreatic D cell,fibroblast,0.7683349847793579
+pancreatic D cell,intermediate monocyte,0.8093935251235962
+pancreatic D cell,macrophage,0.7663040161132812
+pancreatic D cell,mast cell,0.6157366633415222
+pancreatic D cell,mature NK T cell,0.34597110748291016
+pancreatic D cell,monocyte,0.8502369523048401
+pancreatic D cell,natural killer cell,0.27022072672843933
+pancreatic D cell,neutrophil,0.71322101354599
+pancreatic D cell,non-classical monocyte,0.7470824122428894
+pancreatic D cell,pancreatic A cell,0.7177236080169678
+pancreatic D cell,pancreatic D cell,0.6479218006134033
+pancreatic D cell,pancreatic PP cell,0.6581668257713318
+pancreatic D cell,pancreatic acinar cell,0.6024574041366577
+pancreatic D cell,pancreatic ductal cell,0.6180044412612915
+pancreatic D cell,pancreatic stellate cell,0.5938912630081177
+pancreatic D cell,plasma cell,0.5885233879089355
+pancreatic D cell,type B pancreatic cell,0.6327873468399048
+pancreatic PP cell,B cell,0.34522995352745056
+pancreatic PP cell,"CD4-positive, alpha-beta T cell",0.18583308160305023
+pancreatic PP cell,"CD8-positive, alpha-beta T cell",0.26984649896621704
+pancreatic PP cell,T cell,0.37564268708229065
+pancreatic PP cell,classical monocyte,0.4518440365791321
+pancreatic PP cell,endothelial cell,0.41160812973976135
+pancreatic PP cell,fibroblast,0.41496410965919495
+pancreatic PP cell,intermediate monocyte,0.4775027334690094
+pancreatic PP cell,macrophage,0.43065986037254333
+pancreatic PP cell,mast cell,0.30478671193122864
+pancreatic PP cell,mature NK T cell,0.2986017167568207
+pancreatic PP cell,monocyte,0.5876036286354065
+pancreatic PP cell,natural killer cell,0.3220701515674591
+pancreatic PP cell,neutrophil,0.4165199398994446
+pancreatic PP cell,non-classical monocyte,0.46667781472206116
+pancreatic PP cell,pancreatic A cell,0.384729266166687
+pancreatic PP cell,pancreatic D cell,0.3957135081291199
+pancreatic PP cell,pancreatic PP cell,0.3054841458797455
+pancreatic PP cell,pancreatic acinar cell,0.2665768563747406
+pancreatic PP cell,pancreatic ductal cell,0.14610768854618073
+pancreatic PP cell,pancreatic stellate cell,0.1707289069890976
+pancreatic PP cell,plasma cell,0.23948338627815247
+pancreatic PP cell,type B pancreatic cell,0.3568252623081207
+pancreatic acinar cell,B cell,0.4950704276561737
+pancreatic acinar cell,"CD4-positive, alpha-beta T cell",0.3305998742580414
+pancreatic acinar cell,"CD8-positive, alpha-beta T cell",0.39667704701423645
+pancreatic acinar cell,T cell,0.4926929175853729
+pancreatic acinar cell,classical monocyte,0.36947670578956604
+pancreatic acinar cell,endothelial cell,0.5783030390739441
+pancreatic acinar cell,fibroblast,0.5123375654220581
+pancreatic acinar cell,intermediate monocyte,0.37788301706314087
+pancreatic acinar cell,macrophage,0.3695693612098694
+pancreatic acinar cell,mast cell,0.44684961438179016
+pancreatic acinar cell,mature NK T cell,0.4344806671142578
+pancreatic acinar cell,monocyte,0.5346075892448425
+pancreatic acinar cell,natural killer cell,0.424308717250824
+pancreatic acinar cell,neutrophil,0.394015371799469
+pancreatic acinar cell,non-classical monocyte,0.37889477610588074
+pancreatic acinar cell,pancreatic A cell,0.5162673592567444
+pancreatic acinar cell,pancreatic D cell,0.44362983107566833
+pancreatic acinar cell,pancreatic PP cell,0.45805564522743225
+pancreatic acinar cell,pancreatic acinar cell,0.3929034471511841
+pancreatic acinar cell,pancreatic ductal cell,0.3985537886619568
+pancreatic acinar cell,pancreatic stellate cell,0.3968386650085449
+pancreatic acinar cell,plasma cell,0.3938804864883423
+pancreatic acinar cell,type B pancreatic cell,0.4194481074810028
+pancreatic ductal cell,B cell,0.3897658884525299
+pancreatic ductal cell,"CD4-positive, alpha-beta T cell",0.2053593546152115
+pancreatic ductal cell,"CD8-positive, alpha-beta T cell",0.2909521460533142
+pancreatic ductal cell,T cell,0.3716200292110443
+pancreatic ductal cell,classical monocyte,0.5097402334213257
+pancreatic ductal cell,endothelial cell,0.39834561944007874
+pancreatic ductal cell,fibroblast,0.3887372612953186
+pancreatic ductal cell,intermediate monocyte,0.538729190826416
+pancreatic ductal cell,macrophage,0.4850328862667084
+pancreatic ductal cell,mast cell,0.29669705033302307
+pancreatic ductal cell,mature NK T cell,0.3097461760044098
+pancreatic ductal cell,monocyte,0.6585075855255127
+pancreatic ductal cell,natural killer cell,0.346819132566452
+pancreatic ductal cell,neutrophil,0.4664601981639862
+pancreatic ductal cell,non-classical monocyte,0.5145184397697449
+pancreatic ductal cell,pancreatic A cell,0.1595546007156372
+pancreatic ductal cell,pancreatic D cell,0.09904038161039352
+pancreatic ductal cell,pancreatic PP cell,0.11628221720457077
+pancreatic ductal cell,pancreatic acinar cell,0.10068681836128235
+pancreatic ductal cell,pancreatic ductal cell,0.11699789017438889
+pancreatic ductal cell,pancreatic stellate cell,0.168258398771286
+pancreatic ductal cell,plasma cell,0.11621130257844925
+pancreatic ductal cell,type B pancreatic cell,0.07537459582090378
+pancreatic stellate cell,B cell,0.3300952911376953
+pancreatic stellate cell,"CD4-positive, alpha-beta T cell",0.17114554345607758
+pancreatic stellate cell,"CD8-positive, alpha-beta T cell",0.23336747288703918
+pancreatic stellate cell,T cell,0.29464635252952576
+pancreatic stellate cell,classical monocyte,0.40815460681915283
+pancreatic stellate cell,endothelial cell,0.36009374260902405
+pancreatic stellate cell,fibroblast,0.29034894704818726
+pancreatic stellate cell,intermediate monocyte,0.42451509833335876
+pancreatic stellate cell,macrophage,0.3780454993247986
+pancreatic stellate cell,mast cell,0.23676007986068726
+pancreatic stellate cell,mature NK T cell,0.25797492265701294
+pancreatic stellate cell,monocyte,0.5365607738494873
+pancreatic stellate cell,natural killer cell,0.2909877896308899
+pancreatic stellate cell,neutrophil,0.3718324601650238
+pancreatic stellate cell,non-classical monocyte,0.3911469876766205
+pancreatic stellate cell,pancreatic A cell,0.1432598978281021
+pancreatic stellate cell,pancreatic D cell,0.08934453874826431
+pancreatic stellate cell,pancreatic PP cell,0.11464809626340866
+pancreatic stellate cell,pancreatic acinar cell,0.07056394964456558
+pancreatic stellate cell,pancreatic ductal cell,0.11944688856601715
+pancreatic stellate cell,pancreatic stellate cell,0.17414306104183197
+pancreatic stellate cell,plasma cell,0.10010236501693726
+pancreatic stellate cell,type B pancreatic cell,0.0670701414346695
+plasma cell,B cell,0.208170086145401
+plasma cell,"CD4-positive, alpha-beta T cell",0.10341503471136093
+plasma cell,"CD8-positive, alpha-beta T cell",0.17969590425491333
+plasma cell,T cell,0.14810509979724884
+plasma cell,classical monocyte,0.22825269401073456
+plasma cell,endothelial cell,0.2735331356525421
+plasma cell,fibroblast,0.18830719590187073
+plasma cell,intermediate monocyte,0.24386055767536163
+plasma cell,macrophage,0.20140722393989563
+plasma cell,mast cell,0.1067223846912384
+plasma cell,mature NK T cell,0.1618008315563202
+plasma cell,monocyte,0.3418547511100769
+plasma cell,natural killer cell,0.29190579056739807
+plasma cell,neutrophil,0.18666209280490875
+plasma cell,non-classical monocyte,0.2103603631258011
+plasma cell,pancreatic A cell,0.18492355942726135
+plasma cell,pancreatic D cell,0.04174599051475525
+plasma cell,pancreatic PP cell,0.050436027348041534
+plasma cell,pancreatic acinar cell,0.01966661959886551
+plasma cell,pancreatic ductal cell,0.013955562375485897
+plasma cell,pancreatic stellate cell,0.021612852811813354
+plasma cell,plasma cell,-0.03699200600385666
+plasma cell,type B pancreatic cell,-0.00500252190977335
+type B pancreatic cell,B cell,0.4353601336479187
+type B pancreatic cell,"CD4-positive, alpha-beta T cell",0.15276426076889038
+type B pancreatic cell,"CD8-positive, alpha-beta T cell",0.2311587780714035
+type B pancreatic cell,T cell,0.7091524004936218
+type B pancreatic cell,classical monocyte,0.8488229513168335
+type B pancreatic cell,endothelial cell,0.830701470375061
+type B pancreatic cell,fibroblast,0.82523113489151
+type B pancreatic cell,intermediate monocyte,0.8757367730140686
+type B pancreatic cell,macrophage,0.8387677073478699
+type B pancreatic cell,mast cell,0.6803874969482422
+type B pancreatic cell,mature NK T cell,0.38577404618263245
+type B pancreatic cell,monocyte,0.9151100516319275
+type B pancreatic cell,natural killer cell,0.26952776312828064
+type B pancreatic cell,neutrophil,0.7863482236862183
+type B pancreatic cell,non-classical monocyte,0.8161875009536743
+type B pancreatic cell,pancreatic A cell,0.760576069355011
+type B pancreatic cell,pancreatic D cell,0.6896950602531433
+type B pancreatic cell,pancreatic PP cell,0.7114139795303345
+type B pancreatic cell,pancreatic acinar cell,0.6595517992973328
+type B pancreatic cell,pancreatic ductal cell,0.6973538398742676
+type B pancreatic cell,pancreatic stellate cell,0.6749764680862427
+type B pancreatic cell,plasma cell,0.6542242765426636
+type B pancreatic cell,type B pancreatic cell,0.6699212789535522

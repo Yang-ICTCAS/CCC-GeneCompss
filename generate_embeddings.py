@@ -111,21 +111,19 @@ def generate_embeddings(dataset_path, model_path, token_dict_path, output_path,
     total_length = len(dataset)
     iters = total_length // batch_size
     
+    total_batches = iters if total_length % batch_size == 0 else iters + 1
     logger.info(f"Starting processing: Total samples: {total_length}, "
-                f"Batch size: {batch_size}, Total iterations: {iters + 1}")
+                f"Batch size: {batch_size}, Total iterations: {total_batches}")
     
     # Use list to store results on CPU
     emb_list = []
     
     with torch.no_grad():
-        for i in tqdm(range(iters + 1), desc="Processing batches"):
+        for i in tqdm(range(total_batches), desc="Processing batches"):
             try:
                 # Calculate current batch indices
                 start_idx = i * batch_size
-                if i != iters:
-                    end_idx = (i + 1) * batch_size
-                else:
-                    end_idx = total_length
+                end_idx = min((i + 1) * batch_size, total_length)
                 
                 # Process current batch
                 emb_batch = process_batch_optimized(

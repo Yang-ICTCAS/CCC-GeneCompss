@@ -1,0 +1,170 @@
+Sender,Receiver,Score
+B cell,B cell,0.5101461410522461
+B cell,"CD4-positive, alpha-beta T cell",0.4828847348690033
+B cell,"CD8-positive, alpha-beta T cell",0.5019685626029968
+B cell,T cell,0.49749085307121277
+B cell,endothelial cell,0.42354196310043335
+B cell,intermediate monocyte,0.6653943061828613
+B cell,kidney epithelial cell,0.11724408715963364
+B cell,macrophage,0.6040070056915283
+B cell,monocyte,0.6676149964332581
+B cell,natural killer cell,0.5440458059310913
+B cell,neutrophil,0.7737101912498474
+B cell,non-classical monocyte,0.6755338311195374
+B cell,plasma cell,0.4794068932533264
+"CD4-positive, alpha-beta T cell",B cell,0.5591341853141785
+"CD4-positive, alpha-beta T cell","CD4-positive, alpha-beta T cell",0.5024431347846985
+"CD4-positive, alpha-beta T cell","CD8-positive, alpha-beta T cell",0.5248280763626099
+"CD4-positive, alpha-beta T cell",T cell,0.5201011300086975
+"CD4-positive, alpha-beta T cell",endothelial cell,0.4372466802597046
+"CD4-positive, alpha-beta T cell",intermediate monocyte,0.7133104205131531
+"CD4-positive, alpha-beta T cell",kidney epithelial cell,0.08394639939069748
+"CD4-positive, alpha-beta T cell",macrophage,0.654043436050415
+"CD4-positive, alpha-beta T cell",monocyte,0.7153028249740601
+"CD4-positive, alpha-beta T cell",natural killer cell,0.5779036283493042
+"CD4-positive, alpha-beta T cell",neutrophil,0.8239883780479431
+"CD4-positive, alpha-beta T cell",non-classical monocyte,0.7273395657539368
+"CD4-positive, alpha-beta T cell",plasma cell,0.5025408267974854
+"CD8-positive, alpha-beta T cell",B cell,0.5735694169998169
+"CD8-positive, alpha-beta T cell","CD4-positive, alpha-beta T cell",0.5213072896003723
+"CD8-positive, alpha-beta T cell","CD8-positive, alpha-beta T cell",0.5402122735977173
+"CD8-positive, alpha-beta T cell",T cell,0.5344001054763794
+"CD8-positive, alpha-beta T cell",endothelial cell,0.44441258907318115
+"CD8-positive, alpha-beta T cell",intermediate monocyte,0.7244220972061157
+"CD8-positive, alpha-beta T cell",kidney epithelial cell,0.08976125717163086
+"CD8-positive, alpha-beta T cell",macrophage,0.6651594638824463
+"CD8-positive, alpha-beta T cell",monocyte,0.7240733504295349
+"CD8-positive, alpha-beta T cell",natural killer cell,0.5863510966300964
+"CD8-positive, alpha-beta T cell",neutrophil,0.8366420269012451
+"CD8-positive, alpha-beta T cell",non-classical monocyte,0.7384533882141113
+"CD8-positive, alpha-beta T cell",plasma cell,0.5149528980255127
+T cell,B cell,0.5623351335525513
+T cell,"CD4-positive, alpha-beta T cell",0.5170514583587646
+T cell,"CD8-positive, alpha-beta T cell",0.5342121124267578
+T cell,T cell,0.5278541445732117
+T cell,endothelial cell,0.44047653675079346
+T cell,intermediate monocyte,0.7021198272705078
+T cell,kidney epithelial cell,0.10052398592233658
+T cell,macrophage,0.6437710523605347
+T cell,monocyte,0.7002294063568115
+T cell,natural killer cell,0.5790804028511047
+T cell,neutrophil,0.812261164188385
+T cell,non-classical monocyte,0.7175357341766357
+T cell,plasma cell,0.5063725709915161
+endothelial cell,B cell,0.49697446823120117
+endothelial cell,"CD4-positive, alpha-beta T cell",0.467602014541626
+endothelial cell,"CD8-positive, alpha-beta T cell",0.48056235909461975
+endothelial cell,T cell,0.46973198652267456
+endothelial cell,endothelial cell,0.4400809407234192
+endothelial cell,intermediate monocyte,0.564945638179779
+endothelial cell,kidney epithelial cell,0.27658915519714355
+endothelial cell,macrophage,0.5271217226982117
+endothelial cell,monocyte,0.5725134611129761
+endothelial cell,natural killer cell,0.5106741189956665
+endothelial cell,neutrophil,0.6551127433776855
+endothelial cell,non-classical monocyte,0.5877646803855896
+endothelial cell,plasma cell,0.4528602063655853
+intermediate monocyte,B cell,0.5208070874214172
+intermediate monocyte,"CD4-positive, alpha-beta T cell",0.5076709389686584
+intermediate monocyte,"CD8-positive, alpha-beta T cell",0.5162309408187866
+intermediate monocyte,T cell,0.5018929243087769
+intermediate monocyte,endothelial cell,0.4411817789077759
+intermediate monocyte,intermediate monocyte,0.4808840751647949
+intermediate monocyte,kidney epithelial cell,0.2679126560688019
+intermediate monocyte,macrophage,0.45406070351600647
+intermediate monocyte,monocyte,0.48324257135391235
+intermediate monocyte,natural killer cell,0.528163492679596
+intermediate monocyte,neutrophil,0.5836291909217834
+intermediate monocyte,non-classical monocyte,0.505139946937561
+intermediate monocyte,plasma cell,0.46724289655685425
+kidney epithelial cell,B cell,0.48971229791641235
+kidney epithelial cell,"CD4-positive, alpha-beta T cell",0.4711979031562805
+kidney epithelial cell,"CD8-positive, alpha-beta T cell",0.4838849902153015
+kidney epithelial cell,T cell,0.4704667329788208
+kidney epithelial cell,endothelial cell,0.42346760630607605
+kidney epithelial cell,intermediate monocyte,0.5427967309951782
+kidney epithelial cell,kidney epithelial cell,0.31935232877731323
+kidney epithelial cell,macrophage,0.5091075301170349
+kidney epithelial cell,monocyte,0.5564852952957153
+kidney epithelial cell,natural killer cell,0.5166316032409668
+kidney epithelial cell,neutrophil,0.627332329750061
+kidney epithelial cell,non-classical monocyte,0.5634964108467102
+kidney epithelial cell,plasma cell,0.4299599826335907
+macrophage,B cell,0.4613964557647705
+macrophage,"CD4-positive, alpha-beta T cell",0.43119364976882935
+macrophage,"CD8-positive, alpha-beta T cell",0.44070297479629517
+macrophage,T cell,0.43314802646636963
+macrophage,endothelial cell,0.37791329622268677
+macrophage,intermediate monocyte,0.44713741540908813
+macrophage,kidney epithelial cell,0.1687682867050171
+macrophage,macrophage,0.40307778120040894
+macrophage,monocyte,0.45132604241371155
+macrophage,natural killer cell,0.46373552083969116
+macrophage,neutrophil,0.5636249780654907
+macrophage,non-classical monocyte,0.46824541687965393
+macrophage,plasma cell,0.40393805503845215
+monocyte,B cell,0.49985581636428833
+monocyte,"CD4-positive, alpha-beta T cell",0.4801923334598541
+monocyte,"CD8-positive, alpha-beta T cell",0.4876994788646698
+monocyte,T cell,0.4770938754081726
+monocyte,endothelial cell,0.4170486330986023
+monocyte,intermediate monocyte,0.46198225021362305
+monocyte,kidney epithelial cell,0.23371359705924988
+monocyte,macrophage,0.43217211961746216
+monocyte,monocyte,0.4664265513420105
+monocyte,natural killer cell,0.5051409006118774
+monocyte,neutrophil,0.5682162046432495
+monocyte,non-classical monocyte,0.48518431186676025
+monocyte,plasma cell,0.4464489817619324
+natural killer cell,B cell,0.5930471420288086
+natural killer cell,"CD4-positive, alpha-beta T cell",0.5479469895362854
+natural killer cell,"CD8-positive, alpha-beta T cell",0.5627428293228149
+natural killer cell,T cell,0.556411862373352
+natural killer cell,endothelial cell,0.47752445936203003
+natural killer cell,intermediate monocyte,0.7223437428474426
+natural killer cell,kidney epithelial cell,0.17414845526218414
+natural killer cell,macrophage,0.6640344858169556
+natural killer cell,monocyte,0.7221110463142395
+natural killer cell,natural killer cell,0.5963993072509766
+natural killer cell,neutrophil,0.8367727994918823
+natural killer cell,non-classical monocyte,0.7378649711608887
+natural killer cell,plasma cell,0.5379847884178162
+neutrophil,B cell,0.6703091859817505
+neutrophil,"CD4-positive, alpha-beta T cell",0.6565017700195312
+neutrophil,"CD8-positive, alpha-beta T cell",0.6651270389556885
+neutrophil,T cell,0.6458209753036499
+neutrophil,endothelial cell,0.5415467619895935
+neutrophil,intermediate monocyte,0.5868226289749146
+neutrophil,kidney epithelial cell,0.3499371409416199
+neutrophil,macrophage,0.5671216249465942
+neutrophil,monocyte,0.596012532711029
+neutrophil,natural killer cell,0.6869169473648071
+neutrophil,neutrophil,0.6927204132080078
+neutrophil,non-classical monocyte,0.6204899549484253
+neutrophil,plasma cell,0.6047409772872925
+non-classical monocyte,B cell,0.5250446796417236
+non-classical monocyte,"CD4-positive, alpha-beta T cell",0.502984881401062
+non-classical monocyte,"CD8-positive, alpha-beta T cell",0.5118481516838074
+non-classical monocyte,T cell,0.5002472400665283
+non-classical monocyte,endothelial cell,0.4294276833534241
+non-classical monocyte,intermediate monocyte,0.482421875
+non-classical monocyte,kidney epithelial cell,0.22461196780204773
+non-classical monocyte,macrophage,0.4525507688522339
+non-classical monocyte,monocyte,0.48813700675964355
+non-classical monocyte,natural killer cell,0.5307958126068115
+non-classical monocyte,neutrophil,0.5988171696662903
+non-classical monocyte,non-classical monocyte,0.5068837404251099
+non-classical monocyte,plasma cell,0.46774137020111084
+plasma cell,B cell,0.5220657587051392
+plasma cell,"CD4-positive, alpha-beta T cell",0.49386143684387207
+plasma cell,"CD8-positive, alpha-beta T cell",0.5091093182563782
+plasma cell,T cell,0.4979320466518402
+plasma cell,endothelial cell,0.44184610247612
+plasma cell,intermediate monocyte,0.6083291172981262
+plasma cell,kidney epithelial cell,0.22762036323547363
+plasma cell,macrophage,0.5699446201324463
+plasma cell,monocyte,0.6236927509307861
+plasma cell,natural killer cell,0.5451322793960571
+plasma cell,neutrophil,0.7297374606132507
+plasma cell,non-classical monocyte,0.6368340849876404
+plasma cell,plasma cell,0.46605366468429565

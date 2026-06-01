@@ -1,0 +1,577 @@
+Sender,Receiver,Score
+B cell,B cell,0.4660789370536804
+B cell,"CD4-positive, alpha-beta T cell",0.4243490695953369
+B cell,"CD8-positive, alpha-beta T cell",0.46404170989990234
+B cell,T cell,0.46326762437820435
+B cell,classical monocyte,0.7550641894340515
+B cell,endothelial cell,0.5292856693267822
+B cell,erythrocyte,0.4293912351131439
+B cell,fibroblast,0.2668082118034363
+B cell,hematopoietic precursor cell,0.3626822233200073
+B cell,hepatic stellate cell,0.2584262490272522
+B cell,hepatocyte,0.3982709050178528
+B cell,intermediate monocyte,0.7882166504859924
+B cell,intrahepatic cholangiocyte,0.28132063150405884
+B cell,macrophage,0.765505850315094
+B cell,mast cell,0.43832629919052124
+B cell,mature NK T cell,0.45782262086868286
+B cell,monocyte,0.771592378616333
+B cell,myeloid cell,0.7199824452400208
+B cell,myeloid dendritic cell,0.8268062472343445
+B cell,natural killer cell,0.530095636844635
+B cell,neutrophil,0.6837249398231506
+B cell,non-classical monocyte,0.7213382720947266
+B cell,plasma cell,0.31989786028862
+B cell,plasmacytoid dendritic cell,0.38702911138534546
+"CD4-positive, alpha-beta T cell",B cell,0.472004234790802
+"CD4-positive, alpha-beta T cell","CD4-positive, alpha-beta T cell",0.4395310878753662
+"CD4-positive, alpha-beta T cell","CD8-positive, alpha-beta T cell",0.47210851311683655
+"CD4-positive, alpha-beta T cell",T cell,0.463512659072876
+"CD4-positive, alpha-beta T cell",classical monocyte,0.6541544795036316
+"CD4-positive, alpha-beta T cell",endothelial cell,0.5384858250617981
+"CD4-positive, alpha-beta T cell",erythrocyte,0.41781431436538696
+"CD4-positive, alpha-beta T cell",fibroblast,0.3176344037055969
+"CD4-positive, alpha-beta T cell",hematopoietic precursor cell,0.34587371349334717
+"CD4-positive, alpha-beta T cell",hepatic stellate cell,0.29672443866729736
+"CD4-positive, alpha-beta T cell",hepatocyte,0.40756291151046753
+"CD4-positive, alpha-beta T cell",intermediate monocyte,0.7118275165557861
+"CD4-positive, alpha-beta T cell",intrahepatic cholangiocyte,0.3095037341117859
+"CD4-positive, alpha-beta T cell",macrophage,0.7002437114715576
+"CD4-positive, alpha-beta T cell",mast cell,0.48324230313301086
+"CD4-positive, alpha-beta T cell",mature NK T cell,0.467698872089386
+"CD4-positive, alpha-beta T cell",monocyte,0.6818346977233887
+"CD4-positive, alpha-beta T cell",myeloid cell,0.6108633875846863
+"CD4-positive, alpha-beta T cell",myeloid dendritic cell,0.7726325392723083
+"CD4-positive, alpha-beta T cell",natural killer cell,0.5295609831809998
+"CD4-positive, alpha-beta T cell",neutrophil,0.5717800259590149
+"CD4-positive, alpha-beta T cell",non-classical monocyte,0.6597933173179626
+"CD4-positive, alpha-beta T cell",plasma cell,0.33711570501327515
+"CD4-positive, alpha-beta T cell",plasmacytoid dendritic cell,0.3911489248275757
+"CD8-positive, alpha-beta T cell",B cell,0.47527143359184265
+"CD8-positive, alpha-beta T cell","CD4-positive, alpha-beta T cell",0.4488866627216339
+"CD8-positive, alpha-beta T cell","CD8-positive, alpha-beta T cell",0.47777795791625977
+"CD8-positive, alpha-beta T cell",T cell,0.4726410210132599
+"CD8-positive, alpha-beta T cell",classical monocyte,0.609265148639679
+"CD8-positive, alpha-beta T cell",endothelial cell,0.5427780151367188
+"CD8-positive, alpha-beta T cell",erythrocyte,0.43490374088287354
+"CD8-positive, alpha-beta T cell",fibroblast,0.3036838173866272
+"CD8-positive, alpha-beta T cell",hematopoietic precursor cell,0.343904584646225
+"CD8-positive, alpha-beta T cell",hepatic stellate cell,0.29216626286506653
+"CD8-positive, alpha-beta T cell",hepatocyte,0.41876211762428284
+"CD8-positive, alpha-beta T cell",intermediate monocyte,0.675722062587738
+"CD8-positive, alpha-beta T cell",intrahepatic cholangiocyte,0.3111959993839264
+"CD8-positive, alpha-beta T cell",macrophage,0.6898545622825623
+"CD8-positive, alpha-beta T cell",mast cell,0.4749670922756195
+"CD8-positive, alpha-beta T cell",mature NK T cell,0.47235336899757385
+"CD8-positive, alpha-beta T cell",monocyte,0.6356735229492188
+"CD8-positive, alpha-beta T cell",myeloid cell,0.5777161121368408
+"CD8-positive, alpha-beta T cell",myeloid dendritic cell,0.7644482254981995
+"CD8-positive, alpha-beta T cell",natural killer cell,0.5270382761955261
+"CD8-positive, alpha-beta T cell",neutrophil,0.5353623032569885
+"CD8-positive, alpha-beta T cell",non-classical monocyte,0.6238372921943665
+"CD8-positive, alpha-beta T cell",plasma cell,0.3475867509841919
+"CD8-positive, alpha-beta T cell",plasmacytoid dendritic cell,0.4003068804740906
+T cell,B cell,0.47823378443717957
+T cell,"CD4-positive, alpha-beta T cell",0.44787687063217163
+T cell,"CD8-positive, alpha-beta T cell",0.4794595241546631
+T cell,T cell,0.4813411235809326
+T cell,classical monocyte,0.6644524931907654
+T cell,endothelial cell,0.5260230302810669
+T cell,erythrocyte,0.4356684386730194
+T cell,fibroblast,0.29450729489326477
+T cell,hematopoietic precursor cell,0.3167541027069092
+T cell,hepatic stellate cell,0.2719953954219818
+T cell,hepatocyte,0.4020526707172394
+T cell,intermediate monocyte,0.7312027812004089
+T cell,intrahepatic cholangiocyte,0.25718605518341064
+T cell,macrophage,0.7203496694564819
+T cell,mast cell,0.4714193046092987
+T cell,mature NK T cell,0.4709224998950958
+T cell,monocyte,0.6971436142921448
+T cell,myeloid cell,0.6251335740089417
+T cell,myeloid dendritic cell,0.7941661477088928
+T cell,natural killer cell,0.5214563608169556
+T cell,neutrophil,0.58881676197052
+T cell,non-classical monocyte,0.6620643138885498
+T cell,plasma cell,0.25046470761299133
+T cell,plasmacytoid dendritic cell,0.37687015533447266
+classical monocyte,B cell,0.5497059226036072
+classical monocyte,"CD4-positive, alpha-beta T cell",0.5244043469429016
+classical monocyte,"CD8-positive, alpha-beta T cell",0.5394675731658936
+classical monocyte,T cell,0.5442895293235779
+classical monocyte,classical monocyte,0.5807064771652222
+classical monocyte,endothelial cell,0.6125277876853943
+classical monocyte,erythrocyte,0.5963173508644104
+classical monocyte,fibroblast,0.41774532198905945
+classical monocyte,hematopoietic precursor cell,0.5214057564735413
+classical monocyte,hepatic stellate cell,0.4224579930305481
+classical monocyte,hepatocyte,0.5775975584983826
+classical monocyte,intermediate monocyte,0.5901817679405212
+classical monocyte,intrahepatic cholangiocyte,0.4846546947956085
+classical monocyte,macrophage,0.5984401106834412
+classical monocyte,mast cell,0.5723024606704712
+classical monocyte,mature NK T cell,0.5484760403633118
+classical monocyte,monocyte,0.5816439986228943
+classical monocyte,myeloid cell,0.5811483263969421
+classical monocyte,myeloid dendritic cell,0.7075669765472412
+classical monocyte,natural killer cell,0.559956967830658
+classical monocyte,neutrophil,0.5501973032951355
+classical monocyte,non-classical monocyte,0.6055592894554138
+classical monocyte,plasma cell,0.5319564342498779
+classical monocyte,plasmacytoid dendritic cell,0.5653454661369324
+endothelial cell,B cell,0.4727887809276581
+endothelial cell,"CD4-positive, alpha-beta T cell",0.3780196011066437
+endothelial cell,"CD8-positive, alpha-beta T cell",0.4105890989303589
+endothelial cell,T cell,0.3950517475605011
+endothelial cell,classical monocyte,0.5669171214103699
+endothelial cell,endothelial cell,0.3962481915950775
+endothelial cell,erythrocyte,0.36709529161453247
+endothelial cell,fibroblast,0.2923475503921509
+endothelial cell,hematopoietic precursor cell,0.3389590382575989
+endothelial cell,hepatic stellate cell,0.27357804775238037
+endothelial cell,hepatocyte,0.3237280249595642
+endothelial cell,intermediate monocyte,0.5966674089431763
+endothelial cell,intrahepatic cholangiocyte,0.2788463830947876
+endothelial cell,macrophage,0.5873497724533081
+endothelial cell,mast cell,0.3217052221298218
+endothelial cell,mature NK T cell,0.4069697856903076
+endothelial cell,monocyte,0.5700986981391907
+endothelial cell,myeloid cell,0.5524792075157166
+endothelial cell,myeloid dendritic cell,0.6959909796714783
+endothelial cell,natural killer cell,0.4483721852302551
+endothelial cell,neutrophil,0.5110458731651306
+endothelial cell,non-classical monocyte,0.5448867678642273
+endothelial cell,plasma cell,0.3240063488483429
+endothelial cell,plasmacytoid dendritic cell,0.33333802223205566
+erythrocyte,B cell,0.37460190057754517
+erythrocyte,"CD4-positive, alpha-beta T cell",0.3124556541442871
+erythrocyte,"CD8-positive, alpha-beta T cell",0.3387327790260315
+erythrocyte,T cell,0.3544335663318634
+erythrocyte,classical monocyte,0.8858069777488708
+erythrocyte,endothelial cell,0.5232681632041931
+erythrocyte,erythrocyte,0.46183478832244873
+erythrocyte,fibroblast,0.4108174741268158
+erythrocyte,hematopoietic precursor cell,0.5713776350021362
+erythrocyte,hepatic stellate cell,0.42371249198913574
+erythrocyte,hepatocyte,0.43159621953964233
+erythrocyte,intermediate monocyte,0.9075571298599243
+erythrocyte,intrahepatic cholangiocyte,0.4374961853027344
+erythrocyte,macrophage,0.8857808113098145
+erythrocyte,mast cell,0.44925400614738464
+erythrocyte,mature NK T cell,0.30932554602622986
+erythrocyte,monocyte,0.8944515585899353
+erythrocyte,myeloid cell,0.8424450755119324
+erythrocyte,myeloid dendritic cell,0.9342569708824158
+erythrocyte,natural killer cell,0.34741106629371643
+erythrocyte,neutrophil,0.8267684578895569
+erythrocyte,non-classical monocyte,0.8330725431442261
+erythrocyte,plasma cell,0.48731184005737305
+erythrocyte,plasmacytoid dendritic cell,0.49966323375701904
+fibroblast,B cell,0.4201115667819977
+fibroblast,"CD4-positive, alpha-beta T cell",0.36642491817474365
+fibroblast,"CD8-positive, alpha-beta T cell",0.383505642414093
+fibroblast,T cell,0.37672916054725647
+fibroblast,classical monocyte,0.39384782314300537
+fibroblast,endothelial cell,0.4170047640800476
+fibroblast,erythrocyte,0.3865145444869995
+fibroblast,fibroblast,0.35836130380630493
+fibroblast,hematopoietic precursor cell,0.2972464859485626
+fibroblast,hepatic stellate cell,0.3408162295818329
+fibroblast,hepatocyte,0.3501113951206207
+fibroblast,intermediate monocyte,0.399924635887146
+fibroblast,intrahepatic cholangiocyte,0.3476848006248474
+fibroblast,macrophage,0.39487478137016296
+fibroblast,mast cell,0.3520834743976593
+fibroblast,mature NK T cell,0.37260276079177856
+fibroblast,monocyte,0.39227306842803955
+fibroblast,myeloid cell,0.4029475748538971
+fibroblast,myeloid dendritic cell,0.5515748262405396
+fibroblast,natural killer cell,0.40307164192199707
+fibroblast,neutrophil,0.35920894145965576
+fibroblast,non-classical monocyte,0.39220982789993286
+fibroblast,plasma cell,0.27124643325805664
+fibroblast,plasmacytoid dendritic cell,0.3343723714351654
+hematopoietic precursor cell,B cell,0.37130266427993774
+hematopoietic precursor cell,"CD4-positive, alpha-beta T cell",0.33395475149154663
+hematopoietic precursor cell,"CD8-positive, alpha-beta T cell",0.3612450957298279
+hematopoietic precursor cell,T cell,0.33935099840164185
+hematopoietic precursor cell,classical monocyte,0.3988788425922394
+hematopoietic precursor cell,endothelial cell,0.4381227195262909
+hematopoietic precursor cell,erythrocyte,0.504235029220581
+hematopoietic precursor cell,fibroblast,0.24062760174274445
+hematopoietic precursor cell,hematopoietic precursor cell,0.26211315393447876
+hematopoietic precursor cell,hepatic stellate cell,0.25306418538093567
+hematopoietic precursor cell,hepatocyte,0.3605889081954956
+hematopoietic precursor cell,intermediate monocyte,0.40483415126800537
+hematopoietic precursor cell,intrahepatic cholangiocyte,0.27359116077423096
+hematopoietic precursor cell,macrophage,0.6028568148612976
+hematopoietic precursor cell,mast cell,0.03401367366313934
+hematopoietic precursor cell,mature NK T cell,0.3364391028881073
+hematopoietic precursor cell,monocyte,0.38806766271591187
+hematopoietic precursor cell,myeloid cell,0.40687137842178345
+hematopoietic precursor cell,myeloid dendritic cell,0.7192385792732239
+hematopoietic precursor cell,natural killer cell,0.38862892985343933
+hematopoietic precursor cell,neutrophil,0.3437952399253845
+hematopoietic precursor cell,non-classical monocyte,0.3780405521392822
+hematopoietic precursor cell,plasma cell,0.27914726734161377
+hematopoietic precursor cell,plasmacytoid dendritic cell,0.3470575213432312
+hepatic stellate cell,B cell,0.4162602722644806
+hepatic stellate cell,"CD4-positive, alpha-beta T cell",0.3214573264122009
+hepatic stellate cell,"CD8-positive, alpha-beta T cell",0.34469273686408997
+hepatic stellate cell,T cell,0.34480881690979004
+hepatic stellate cell,classical monocyte,0.6671381592750549
+hepatic stellate cell,endothelial cell,0.46602708101272583
+hepatic stellate cell,erythrocyte,0.4152553677558899
+hepatic stellate cell,fibroblast,0.36068475246429443
+hepatic stellate cell,hematopoietic precursor cell,0.36618202924728394
+hepatic stellate cell,hepatic stellate cell,0.36849328875541687
+hepatic stellate cell,hepatocyte,0.36825087666511536
+hepatic stellate cell,intermediate monocyte,0.7117663025856018
+hepatic stellate cell,intrahepatic cholangiocyte,0.3703133463859558
+hepatic stellate cell,macrophage,0.6934008002281189
+hepatic stellate cell,mast cell,0.3515459895133972
+hepatic stellate cell,mature NK T cell,0.33194199204444885
+hepatic stellate cell,monocyte,0.6865781545639038
+hepatic stellate cell,myeloid cell,0.6457521319389343
+hepatic stellate cell,myeloid dendritic cell,0.7593626379966736
+hepatic stellate cell,natural killer cell,0.37598276138305664
+hepatic stellate cell,neutrophil,0.5917817950248718
+hepatic stellate cell,non-classical monocyte,0.6033753156661987
+hepatic stellate cell,plasma cell,0.3873307406902313
+hepatic stellate cell,plasmacytoid dendritic cell,0.3956218957901001
+hepatocyte,B cell,0.4562417268753052
+hepatocyte,"CD4-positive, alpha-beta T cell",0.34983599185943604
+hepatocyte,"CD8-positive, alpha-beta T cell",0.3815329670906067
+hepatocyte,T cell,0.3756558895111084
+hepatocyte,classical monocyte,0.7484843730926514
+hepatocyte,endothelial cell,0.44150853157043457
+hepatocyte,erythrocyte,0.40610942244529724
+hepatocyte,fibroblast,0.33963125944137573
+hepatocyte,hematopoietic precursor cell,0.38971394300460815
+hepatocyte,hepatic stellate cell,0.3424304127693176
+hepatocyte,hepatocyte,0.3921997845172882
+hepatocyte,intermediate monocyte,0.7670691609382629
+hepatocyte,intrahepatic cholangiocyte,0.35531723499298096
+hepatocyte,macrophage,0.7295953035354614
+hepatocyte,mast cell,0.3951868414878845
+hepatocyte,mature NK T cell,0.37418046593666077
+hepatocyte,monocyte,0.7516195178031921
+hepatocyte,myeloid cell,0.6681303977966309
+hepatocyte,myeloid dendritic cell,0.8263574838638306
+hepatocyte,natural killer cell,0.41828033328056335
+hepatocyte,neutrophil,0.6809371709823608
+hepatocyte,non-classical monocyte,0.6703899502754211
+hepatocyte,plasma cell,0.3332347273826599
+hepatocyte,plasmacytoid dendritic cell,0.3884301781654358
+intermediate monocyte,B cell,0.5363175272941589
+intermediate monocyte,"CD4-positive, alpha-beta T cell",0.5125636458396912
+intermediate monocyte,"CD8-positive, alpha-beta T cell",0.5269359946250916
+intermediate monocyte,T cell,0.5298603177070618
+intermediate monocyte,classical monocyte,0.5598531365394592
+intermediate monocyte,endothelial cell,0.6053825616836548
+intermediate monocyte,erythrocyte,0.5870681405067444
+intermediate monocyte,fibroblast,0.4027397930622101
+intermediate monocyte,hematopoietic precursor cell,0.5083059668540955
+intermediate monocyte,hepatic stellate cell,0.40970948338508606
+intermediate monocyte,hepatocyte,0.5666150450706482
+intermediate monocyte,intermediate monocyte,0.5673326849937439
+intermediate monocyte,intrahepatic cholangiocyte,0.4757178723812103
+intermediate monocyte,macrophage,0.5740111470222473
+intermediate monocyte,mast cell,0.5596131682395935
+intermediate monocyte,mature NK T cell,0.5355744361877441
+intermediate monocyte,monocyte,0.5595466494560242
+intermediate monocyte,myeloid cell,0.559122622013092
+intermediate monocyte,myeloid dendritic cell,0.6804056763648987
+intermediate monocyte,natural killer cell,0.5486183166503906
+intermediate monocyte,neutrophil,0.5308195352554321
+intermediate monocyte,non-classical monocyte,0.5777061581611633
+intermediate monocyte,plasma cell,0.5109537839889526
+intermediate monocyte,plasmacytoid dendritic cell,0.551035463809967
+intrahepatic cholangiocyte,B cell,0.520750880241394
+intrahepatic cholangiocyte,"CD4-positive, alpha-beta T cell",0.3737870454788208
+intrahepatic cholangiocyte,"CD8-positive, alpha-beta T cell",0.39700552821159363
+intrahepatic cholangiocyte,T cell,0.4111019968986511
+intrahepatic cholangiocyte,classical monocyte,0.6833429932594299
+intrahepatic cholangiocyte,endothelial cell,0.5753498673439026
+intrahepatic cholangiocyte,erythrocyte,0.49894702434539795
+intrahepatic cholangiocyte,fibroblast,0.475904256105423
+intrahepatic cholangiocyte,hematopoietic precursor cell,0.48048341274261475
+intrahepatic cholangiocyte,hepatic stellate cell,0.48502689599990845
+intrahepatic cholangiocyte,hepatocyte,0.47783738374710083
+intrahepatic cholangiocyte,intermediate monocyte,0.704230546951294
+intrahepatic cholangiocyte,intrahepatic cholangiocyte,0.49762487411499023
+intrahepatic cholangiocyte,macrophage,0.6935355067253113
+intrahepatic cholangiocyte,mast cell,0.48634055256843567
+intrahepatic cholangiocyte,mature NK T cell,0.3950181305408478
+intrahepatic cholangiocyte,monocyte,0.6929358839988708
+intrahepatic cholangiocyte,myeloid cell,0.6662550568580627
+intrahepatic cholangiocyte,myeloid dendritic cell,0.7602159976959229
+intrahepatic cholangiocyte,natural killer cell,0.41733935475349426
+intrahepatic cholangiocyte,neutrophil,0.6623940467834473
+intrahepatic cholangiocyte,non-classical monocyte,0.6573423743247986
+intrahepatic cholangiocyte,plasma cell,0.5038631558418274
+intrahepatic cholangiocyte,plasmacytoid dendritic cell,0.503800094127655
+macrophage,B cell,0.45667025446891785
+macrophage,"CD4-positive, alpha-beta T cell",0.4380442500114441
+macrophage,"CD8-positive, alpha-beta T cell",0.4602372646331787
+macrophage,T cell,0.45763063430786133
+macrophage,classical monocyte,0.4796850085258484
+macrophage,endothelial cell,0.4916937053203583
+macrophage,erythrocyte,0.4931809902191162
+macrophage,fibroblast,0.30512624979019165
+macrophage,hematopoietic precursor cell,0.415168434381485
+macrophage,hepatic stellate cell,0.2977829575538635
+macrophage,hepatocyte,0.44236505031585693
+macrophage,intermediate monocyte,0.48237162828445435
+macrophage,intrahepatic cholangiocyte,0.34559521079063416
+macrophage,macrophage,0.483157753944397
+macrophage,mast cell,0.4369661808013916
+macrophage,mature NK T cell,0.4626682698726654
+macrophage,monocyte,0.47517824172973633
+macrophage,myeloid cell,0.4786459505558014
+macrophage,myeloid dendritic cell,0.6415992379188538
+macrophage,natural killer cell,0.489546000957489
+macrophage,neutrophil,0.439205527305603
+macrophage,non-classical monocyte,0.48873013257980347
+macrophage,plasma cell,0.39939409494400024
+macrophage,plasmacytoid dendritic cell,0.44310569763183594
+mast cell,B cell,0.50393146276474
+mast cell,"CD4-positive, alpha-beta T cell",0.505652904510498
+mast cell,"CD8-positive, alpha-beta T cell",0.5312874913215637
+mast cell,T cell,0.5270639061927795
+mast cell,classical monocyte,0.6091225147247314
+mast cell,endothelial cell,0.5897676944732666
+mast cell,erythrocyte,0.5856980681419373
+mast cell,fibroblast,0.3599642813205719
+mast cell,hematopoietic precursor cell,0.3492232859134674
+mast cell,hepatic stellate cell,0.34447771310806274
+mast cell,hepatocyte,0.47022220492362976
+mast cell,intermediate monocyte,0.6485214829444885
+mast cell,intrahepatic cholangiocyte,0.3605128824710846
+mast cell,macrophage,0.6591179370880127
+mast cell,mast cell,0.441142201423645
+mast cell,mature NK T cell,0.5210173726081848
+mast cell,monocyte,0.6222053170204163
+mast cell,myeloid cell,0.5750824809074402
+mast cell,myeloid dendritic cell,0.7560982704162598
+mast cell,natural killer cell,0.5733668208122253
+mast cell,neutrophil,0.5562896132469177
+mast cell,non-classical monocyte,0.5743898749351501
+mast cell,plasma cell,0.1545308232307434
+mast cell,plasmacytoid dendritic cell,0.3934078812599182
+mature NK T cell,B cell,0.4467267692089081
+mature NK T cell,"CD4-positive, alpha-beta T cell",0.4256179630756378
+mature NK T cell,"CD8-positive, alpha-beta T cell",0.4519624710083008
+mature NK T cell,T cell,0.4452153444290161
+mature NK T cell,classical monocyte,0.683336615562439
+mature NK T cell,endothelial cell,0.5169997811317444
+mature NK T cell,erythrocyte,0.4052289128303528
+mature NK T cell,fibroblast,0.2629607915878296
+mature NK T cell,hematopoietic precursor cell,0.2747608423233032
+mature NK T cell,hepatic stellate cell,0.25898173451423645
+mature NK T cell,hepatocyte,0.3832649886608124
+mature NK T cell,intermediate monocyte,0.7526413202285767
+mature NK T cell,intrahepatic cholangiocyte,0.26723551750183105
+mature NK T cell,macrophage,0.7459108233451843
+mature NK T cell,mast cell,0.4212590754032135
+mature NK T cell,mature NK T cell,0.4404231309890747
+mature NK T cell,monocyte,0.720812201499939
+mature NK T cell,myeloid cell,0.6122227907180786
+mature NK T cell,myeloid dendritic cell,0.8067218661308289
+mature NK T cell,natural killer cell,0.49898189306259155
+mature NK T cell,neutrophil,0.5697596073150635
+mature NK T cell,non-classical monocyte,0.6731035113334656
+mature NK T cell,plasma cell,0.3031280040740967
+mature NK T cell,plasmacytoid dendritic cell,0.3589373826980591
+monocyte,B cell,0.5181673169136047
+monocyte,"CD4-positive, alpha-beta T cell",0.4964677095413208
+monocyte,"CD8-positive, alpha-beta T cell",0.5127890110015869
+monocyte,T cell,0.5147092342376709
+monocyte,classical monocyte,0.5447947382926941
+monocyte,endothelial cell,0.5889232754707336
+monocyte,erythrocyte,0.5681238770484924
+monocyte,fibroblast,0.38937827944755554
+monocyte,hematopoietic precursor cell,0.489297479391098
+monocyte,hepatic stellate cell,0.39094316959381104
+monocyte,hepatocyte,0.5479806065559387
+monocyte,intermediate monocyte,0.5505580306053162
+monocyte,intrahepatic cholangiocyte,0.4603937864303589
+monocyte,macrophage,0.5575107932090759
+monocyte,mast cell,0.536624550819397
+monocyte,mature NK T cell,0.5199111104011536
+monocyte,monocyte,0.5430443286895752
+monocyte,myeloid cell,0.543491780757904
+monocyte,myeloid dendritic cell,0.6671804189682007
+monocyte,natural killer cell,0.5378556847572327
+monocyte,neutrophil,0.5144929885864258
+monocyte,non-classical monocyte,0.559232771396637
+monocyte,plasma cell,0.48732438683509827
+monocyte,plasmacytoid dendritic cell,0.5300413966178894
+myeloid cell,B cell,0.5146748423576355
+myeloid cell,"CD4-positive, alpha-beta T cell",0.4843485951423645
+myeloid cell,"CD8-positive, alpha-beta T cell",0.516071081161499
+myeloid cell,T cell,0.5222687721252441
+myeloid cell,classical monocyte,0.7909595966339111
+myeloid cell,endothelial cell,0.6383656859397888
+myeloid cell,erythrocyte,0.5820897817611694
+myeloid cell,fibroblast,0.3983709216117859
+myeloid cell,hematopoietic precursor cell,0.5046643614768982
+myeloid cell,hepatic stellate cell,0.3989582657814026
+myeloid cell,hepatocyte,0.5362929701805115
+myeloid cell,intermediate monocyte,0.8229592442512512
+myeloid cell,intrahepatic cholangiocyte,0.45307666063308716
+myeloid cell,macrophage,0.8009828925132751
+myeloid cell,mast cell,0.5376582741737366
+myeloid cell,mature NK T cell,0.5247388482093811
+myeloid cell,monocyte,0.8007749319076538
+myeloid cell,myeloid cell,0.7062245011329651
+myeloid cell,myeloid dendritic cell,0.872082531452179
+myeloid cell,natural killer cell,0.5580462217330933
+myeloid cell,neutrophil,0.6592757701873779
+myeloid cell,non-classical monocyte,0.7824757695198059
+myeloid cell,plasma cell,0.466001033782959
+myeloid cell,plasmacytoid dendritic cell,0.5446854829788208
+myeloid dendritic cell,B cell,0.43521857261657715
+myeloid dendritic cell,"CD4-positive, alpha-beta T cell",0.4085388779640198
+myeloid dendritic cell,"CD8-positive, alpha-beta T cell",0.4293321669101715
+myeloid dendritic cell,T cell,0.42793428897857666
+myeloid dendritic cell,classical monocyte,0.439656138420105
+myeloid dendritic cell,endothelial cell,0.5442603230476379
+myeloid dendritic cell,erythrocyte,0.5200410485267639
+myeloid dendritic cell,fibroblast,0.29997721314430237
+myeloid dendritic cell,hematopoietic precursor cell,0.36241430044174194
+myeloid dendritic cell,hepatic stellate cell,0.28812089562416077
+myeloid dendritic cell,hepatocyte,0.4291534721851349
+myeloid dendritic cell,intermediate monocyte,0.4421231746673584
+myeloid dendritic cell,intrahepatic cholangiocyte,0.32530921697616577
+myeloid dendritic cell,macrophage,0.44626912474632263
+myeloid dendritic cell,mast cell,0.3664129376411438
+myeloid dendritic cell,mature NK T cell,0.4283933937549591
+myeloid dendritic cell,monocyte,0.4358367323875427
+myeloid dendritic cell,myeloid cell,0.4465898871421814
+myeloid dendritic cell,myeloid dendritic cell,0.5992349982261658
+myeloid dendritic cell,natural killer cell,0.4593004882335663
+myeloid dendritic cell,neutrophil,0.40879958868026733
+myeloid dendritic cell,non-classical monocyte,0.4537977874279022
+myeloid dendritic cell,plasma cell,0.34281814098358154
+myeloid dendritic cell,plasmacytoid dendritic cell,0.4268834590911865
+natural killer cell,B cell,0.4915599226951599
+natural killer cell,"CD4-positive, alpha-beta T cell",0.4783792495727539
+natural killer cell,"CD8-positive, alpha-beta T cell",0.49525588750839233
+natural killer cell,T cell,0.48316332697868347
+natural killer cell,classical monocyte,0.506801426410675
+natural killer cell,endothelial cell,0.5264493823051453
+natural killer cell,erythrocyte,0.4467872381210327
+natural killer cell,fibroblast,0.31583449244499207
+natural killer cell,hematopoietic precursor cell,0.3416423201560974
+natural killer cell,hepatic stellate cell,0.30051755905151367
+natural killer cell,hepatocyte,0.43687576055526733
+natural killer cell,intermediate monocyte,0.5168748497962952
+natural killer cell,intrahepatic cholangiocyte,0.3227978050708771
+natural killer cell,macrophage,0.571266233921051
+natural killer cell,mast cell,0.4641624093055725
+natural killer cell,mature NK T cell,0.49109947681427
+natural killer cell,monocyte,0.5097082853317261
+natural killer cell,myeloid cell,0.5041866302490234
+natural killer cell,myeloid dendritic cell,0.7134614586830139
+natural killer cell,natural killer cell,0.5165007710456848
+natural killer cell,neutrophil,0.4818980097770691
+natural killer cell,non-classical monocyte,0.49946197867393494
+natural killer cell,plasma cell,0.3708806037902832
+natural killer cell,plasmacytoid dendritic cell,0.41047602891921997
+neutrophil,B cell,0.47706612944602966
+neutrophil,"CD4-positive, alpha-beta T cell",0.4284707009792328
+neutrophil,"CD8-positive, alpha-beta T cell",0.47425755858421326
+neutrophil,T cell,0.4798031449317932
+neutrophil,classical monocyte,0.7942324280738831
+neutrophil,endothelial cell,0.5217453837394714
+neutrophil,erythrocyte,0.45600658655166626
+neutrophil,fibroblast,0.2382199615240097
+neutrophil,hematopoietic precursor cell,0.3854503333568573
+neutrophil,hepatic stellate cell,0.2331431657075882
+neutrophil,hepatocyte,0.42848169803619385
+neutrophil,intermediate monocyte,0.8455440402030945
+neutrophil,intrahepatic cholangiocyte,0.2952383756637573
+neutrophil,macrophage,0.8169829249382019
+neutrophil,mast cell,0.4189697206020355
+neutrophil,mature NK T cell,0.4737096130847931
+neutrophil,monocyte,0.8203315138816833
+neutrophil,myeloid cell,0.7014957070350647
+neutrophil,myeloid dendritic cell,0.8822584748268127
+neutrophil,natural killer cell,0.5108397603034973
+neutrophil,neutrophil,0.5918160676956177
+neutrophil,non-classical monocyte,0.7898115515708923
+neutrophil,plasma cell,0.31911811232566833
+neutrophil,plasmacytoid dendritic cell,0.4048110842704773
+non-classical monocyte,B cell,0.4845025837421417
+non-classical monocyte,"CD4-positive, alpha-beta T cell",0.47823044657707214
+non-classical monocyte,"CD8-positive, alpha-beta T cell",0.5017358064651489
+non-classical monocyte,T cell,0.48901665210723877
+non-classical monocyte,classical monocyte,0.4983568489551544
+non-classical monocyte,endothelial cell,0.5358664393424988
+non-classical monocyte,erythrocyte,0.4868389368057251
+non-classical monocyte,fibroblast,0.3158380389213562
+non-classical monocyte,hematopoietic precursor cell,0.41359758377075195
+non-classical monocyte,hepatic stellate cell,0.3052455186843872
+non-classical monocyte,hepatocyte,0.4686501622200012
+non-classical monocyte,intermediate monocyte,0.5012000203132629
+non-classical monocyte,intrahepatic cholangiocyte,0.36821120977401733
+non-classical monocyte,macrophage,0.5239747166633606
+non-classical monocyte,mast cell,0.4727991819381714
+non-classical monocyte,mature NK T cell,0.5016472935676575
+non-classical monocyte,monocyte,0.4946654736995697
+non-classical monocyte,myeloid cell,0.5016542673110962
+non-classical monocyte,myeloid dendritic cell,0.655817449092865
+non-classical monocyte,natural killer cell,0.5264158844947815
+non-classical monocyte,neutrophil,0.4653882384300232
+non-classical monocyte,non-classical monocyte,0.48691922426223755
+non-classical monocyte,plasma cell,0.407092809677124
+non-classical monocyte,plasmacytoid dendritic cell,0.44957295060157776
+plasma cell,B cell,0.2825513482093811
+plasma cell,"CD4-positive, alpha-beta T cell",0.27560415863990784
+plasma cell,"CD8-positive, alpha-beta T cell",0.31018584966659546
+plasma cell,T cell,0.27157407999038696
+plasma cell,classical monocyte,0.6012647747993469
+plasma cell,endothelial cell,0.33438819646835327
+plasma cell,erythrocyte,0.34361502528190613
+plasma cell,fibroblast,0.175346240401268
+plasma cell,hematopoietic precursor cell,0.1841687113046646
+plasma cell,hepatic stellate cell,0.1883402168750763
+plasma cell,hepatocyte,0.25929567217826843
+plasma cell,intermediate monocyte,0.6596639752388
+plasma cell,intrahepatic cholangiocyte,0.19106842577457428
+plasma cell,macrophage,0.6849908828735352
+plasma cell,mast cell,0.02967045269906521
+plasma cell,mature NK T cell,0.2875717282295227
+plasma cell,monocyte,0.6150152087211609
+plasma cell,myeloid cell,0.5152052640914917
+plasma cell,myeloid dendritic cell,0.7536956667900085
+plasma cell,natural killer cell,0.3483935594558716
+plasma cell,neutrophil,0.4930643141269684
+plasma cell,non-classical monocyte,0.5362618565559387
+plasma cell,plasma cell,0.23257078230381012
+plasma cell,plasmacytoid dendritic cell,0.26169148087501526
+plasmacytoid dendritic cell,B cell,0.3858909010887146
+plasmacytoid dendritic cell,"CD4-positive, alpha-beta T cell",0.33186882734298706
+plasmacytoid dendritic cell,"CD8-positive, alpha-beta T cell",0.3607791066169739
+plasmacytoid dendritic cell,T cell,0.35982292890548706
+plasmacytoid dendritic cell,classical monocyte,0.8065748810768127
+plasmacytoid dendritic cell,endothelial cell,0.4896373748779297
+plasmacytoid dendritic cell,erythrocyte,0.4969210624694824
+plasmacytoid dendritic cell,fibroblast,0.3359493017196655
+plasmacytoid dendritic cell,hematopoietic precursor cell,0.4085518717765808
+plasmacytoid dendritic cell,hepatic stellate cell,0.38212865591049194
+plasmacytoid dendritic cell,hepatocyte,0.40769290924072266
+plasmacytoid dendritic cell,intermediate monocyte,0.8349791169166565
+plasmacytoid dendritic cell,intrahepatic cholangiocyte,0.40833935141563416
+plasmacytoid dendritic cell,macrophage,0.815381646156311
+plasmacytoid dendritic cell,mast cell,0.3062090277671814
+plasmacytoid dendritic cell,mature NK T cell,0.34119388461112976
+plasmacytoid dendritic cell,monocyte,0.8186249136924744
+plasmacytoid dendritic cell,myeloid cell,0.7564489245414734
+plasmacytoid dendritic cell,myeloid dendritic cell,0.8721571564674377
+plasmacytoid dendritic cell,natural killer cell,0.3975692391395569
+plasmacytoid dendritic cell,neutrophil,0.7407310605049133
+plasmacytoid dendritic cell,non-classical monocyte,0.742064356803894
+plasmacytoid dendritic cell,plasma cell,0.37480270862579346
+plasmacytoid dendritic cell,plasmacytoid dendritic cell,0.5083311200141907

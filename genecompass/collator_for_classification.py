@@ -54,7 +54,6 @@ class TruncationStrategy(ExplicitEnum):
     DO_NOT_TRUNCATE = "do_not_truncate"
 
 
-
 class PaddingStrategy(ExplicitEnum):
     """
     Possible values for the ``padding`` argument in :meth:`PreTrainedTokenizerBase.__call__`. Useful for tab-completion
@@ -64,7 +63,6 @@ class PaddingStrategy(ExplicitEnum):
     LONGEST = "longest"
     MAX_LENGTH = "max_length"
     DO_NOT_PAD = "do_not_pad"
-
 
 
 class TensorType(ExplicitEnum):
